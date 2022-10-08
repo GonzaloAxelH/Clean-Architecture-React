@@ -8,6 +8,8 @@ La idea principal detrás de CLEAN es poner el negocio y las entidades del negoc
 
 Describiremos brevemente lo que cada capa hace en la arquitectura CLEAN para entender como podemos rescatar algunos de sus conceptos y aplicarlos en nuestras aplicaciones en React.
 
-# Creditos a Osman Cea que explico detalladamente la implementacion.
+<img src="https://daslaf.dev/img/clean/clean_architecture_diagram.png" />
+
+### Creditos a Osman Cea que explico detalladamente la implementacion.
 
 <a href="https://daslaf.dev/posts/arquitectura-clean-react">Articulo completo de Osman Cea "Arquitectura CLEAN para el frontend"</a>
